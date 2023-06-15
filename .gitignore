@@ -1,0 +1,5 @@
+venv
+gw*.json
+debug.txt
+__pycache__
+.pytest_cache
