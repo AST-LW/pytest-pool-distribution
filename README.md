@@ -16,7 +16,7 @@
             "email": "lindy@email.com"
         }
         ```
-    -   When Started no one test case should get same data set / points
+    -   When started no one test case should get same data set / points<br> i.e.
         -   T0 - James & james@email.com
         -   T1 - Lindy & lindy@email.com
 
